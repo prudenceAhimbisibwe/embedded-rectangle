@@ -1,0 +1,19 @@
+div.container{
+    border: solid;
+    padding: 10px 10px 10px 10px;
+    margin: 7pc 7pc 7pc 7pc;
+
+}
+div.lovelace{
+    border:solid rgb(211, 24, 24); 
+    padding: 10px 10px 10px 10px;
+    margin: 7pc 7pc 7pc 7pc;
+}
+div.content{
+    border:dotted blue;
+    padding: 10px 10px 10px 10px;
+    margin: 7pc 7pc 7pc 7pc;
+}
+h1{
+    text-align: center;
+}
