@@ -1,19 +1,22 @@
-div.container{
+.container{
     border: solid;
-    padding: 10px 10px 10px 10px;
-    margin: 7pc 7pc 7pc 7pc;
+    padding: 10px ;
+    margin: 5pc ;
 
 }
-div.lovelace{
+.container{
     border:solid rgb(211, 24, 24); 
-    padding: 10px 10px 10px 10px;
-    margin: 7pc 7pc 7pc 7pc;
+    padding: 10px ;
+    margin: 5pc ;
 }
-div.content{
+.content{
     border:dotted blue;
-    padding: 10px 10px 10px 10px;
-    margin: 7pc 7pc 7pc 7pc;
+    padding: 10px ;
+    margin: 5pc ;
 }
 h1{
     text-align: center;
 }
+
+
+ 
